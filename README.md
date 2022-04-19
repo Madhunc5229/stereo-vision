@@ -33,7 +33,7 @@ Calibration:
 ![images_with_matching_keypoints](https://user-images.githubusercontent.com/61328094/163917726-347b2fe7-f786-41ed-98b7-979a9a73243b.png)
 
 ## Rectifing and plotting the epipolar lines
-![left_image](https://user-images.githubusercontent.com/61328094/163918120-ce419d1f-3e13-4c00-8f24-b82a0905eae8.png)![right_image](https://user-images.githubusercontent.com/61328094/163918137-17e01bf3-ea92-4d33-a184-51ae011be984.png)
+![sadf](https://user-images.githubusercontent.com/61328094/163919225-239df20b-b888-43ea-933a-bc75a0dab195.png)
 
 ## Disparity Gray scale image  
 ![dis_gray](https://user-images.githubusercontent.com/61328094/163918197-6785ede0-cafc-4a32-9ecc-922f766f0699.png)
