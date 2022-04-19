@@ -45,7 +45,8 @@ Calibration:
 ## Depth gray scale image
 ![depth_gray](https://user-images.githubusercontent.com/61328094/163918353-f74f1f06-1ee6-4453-9edc-c92402d15121.png)
 
-## ![depth_hot](https://user-images.githubusercontent.com/61328094/163918393-28d8923a-32ec-42ce-a7e8-fda1c32da173.png)
+## Depth heat map
+![depth_hot](https://user-images.githubusercontent.com/61328094/163918393-28d8923a-32ec-42ce-a7e8-fda1c32da173.png)
 
 
 
